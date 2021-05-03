@@ -9,4 +9,4 @@
  如果玩家猜的数字比目标小，给出"Your guess is too low" 提示;  
  如果玩家猜中数字，给出"You got it!" 提示，提示结束游戏。  
 
-
+![image](https://github.com/Daydream0929/Image/blob/main/3E%60G%40UJZZ968TW8TYGP%25Y1G.png)
